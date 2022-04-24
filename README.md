@@ -21,6 +21,6 @@ I\`ve been learning the basics of Software Engineering since 2021 and I have bee
                     </p>
                     
 
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://www.linkedin.com/in/bilal-azar-el-mourabit-9144b21bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+        
+### Socials
+<p align="left"> <a href="https://www.linkedin.com/in/bilal-azar-el-mourabit-9144b21bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
